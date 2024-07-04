@@ -1,5 +1,7 @@
 ## Predict Credit Approvals using Machine Learning
 
+![Interface Screenshot](interface.png)
+
 This project uses machine learning techniques to analyze and predict credit approvals. The dataset is preprocessed to handle missing values and categorical data, and several machine learning algorithms are applied to build predictive models.
 
 ## Table of Contents
